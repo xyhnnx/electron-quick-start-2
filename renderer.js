@@ -4,3 +4,6 @@
 // `nodeIntegration` is turned off. Use `preload.js` to
 // selectively enable features needed in the rendering
 // process.
+// 该文件在渲染进程中执行
+//控制鼠标键盘等操作
+
