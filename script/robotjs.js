@@ -1,5 +1,6 @@
 var robot = require("robotjs");
 const {width, height} = robot.getScreenSize()
+
 //
 // //Get the mouse position, retuns an object with x and y.
 // var mouse=robot.getMousePos();

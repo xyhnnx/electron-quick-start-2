@@ -3,8 +3,6 @@ const {app, BrowserWindow} = require('electron')
 const path = require('path')
 require('./script/robotjs')
 function createWindow () {
-  console.log(process.versions)
-  var robot = require("robotjs");
 
   // Create the browser window.
   const mainWindow = new BrowserWindow({
